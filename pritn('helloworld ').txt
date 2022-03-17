@@ -1,0 +1,21 @@
+a=1;b=2;print(a)
+print(a)
+print(a+b)
+print('суммa=',a+b)
+
+x=2
+y=5
+print ( x, "+", y, "=", x+y, sep=" " )
+
+h=5
+b=6
+print('h =',h)
+print('b =',b)
+z=h+b
+print('z =',z)
+z=h-b
+print('z =',z)
+z=h*b
+print('z =',z)
+z=h/b
+print('z =',z)

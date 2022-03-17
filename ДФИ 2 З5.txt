@@ -1,0 +1,5 @@
+x=11
+print(x) 
+print ("{:10}".format(x))
+b=2
+print("{:0.2f}{:4}{:4}".format(b,b,b))
